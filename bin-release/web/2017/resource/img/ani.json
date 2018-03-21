@@ -1,0 +1,4589 @@
+{
+  "scale": 1,
+  "clipping": {
+    "clippingPadding": 3
+  },
+  "mcObjs": {
+    "mc_32": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 33,
+      "screenH": 640,
+      "totalFrame": 26,
+      "layers": [
+        [{
+            "libName": "i_43",
+            "frameNum": 8,
+            "y": 6,
+            "x": 2
+          },
+          {
+            "isTf": true,
+            "y": 0,
+            "cy": 4,
+            "x": 1.1,
+            "cx": 1,
+            "frameNum": 1,
+            "libName": "i_44"
+          },
+          {
+            "cx": 3,
+            "y": 0,
+            "cy": 6,
+            "frameNum": 1,
+            "al": 0.67,
+            "x": -0.3
+          },
+          {
+            "libName": "i_46",
+            "frameNum": 1,
+            "y": 6.55,
+            "x": -7.6
+          },
+          {
+            "libName": "i_43",
+            "frameNum": 10,
+            "y": 6,
+            "x": 2
+          }
+        ],
+        [{
+            "frameNum": 8
+          },
+          {
+            "isTf": true,
+            "y": 0,
+            "cy": 4,
+            "x": 1,
+            "cx": 1,
+            "frameNum": 1,
+            "libName": "i_45"
+          },
+          {
+            "cx": 3,
+            "frameNum": 1,
+            "y": 0,
+            "cy": 6,
+            "x": 3
+          },
+          {
+            "frameNum": 12
+          }
+        ]
+      ]
+    },
+    "mc_42": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 84,
+      "screenH": 640,
+      "totalFrame": 34,
+      "layers": [
+        [{
+            "libName": "i_64",
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "cx": 19,
+            "y": -6,
+            "x": -25,
+            "frameNum": 1,
+            "al": 0.34,
+            "libName": "i_65"
+          },
+          {
+            "libName": "i_66",
+            "frameNum": 1,
+            "y": 6,
+            "x": -33.2
+          },
+          {
+            "cx": -4.2,
+            "y": -1,
+            "x": 0,
+            "frameNum": 1,
+            "al": 0.53,
+            "libName": "mc_43"
+          },
+          {
+            "libName": "i_64",
+            "frameNum": 25,
+            "y": 0,
+            "x": 5
+          }
+        ]
+      ]
+    },
+    "mc_1": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 433,
+      "screenH": 640,
+      "totalFrame": 25,
+      "layers": [
+        [{
+            "libName": "i_6",
+            "frameNum": 3,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.39,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.24,
+            "x": 0
+          },
+          {
+            "frameNum": 14,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_14": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_3": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 276,
+      "screenH": 640,
+      "totalFrame": 30,
+      "layers": [
+        [{
+            "libName": "i_11",
+            "frameNum": 4,
+            "y": 0,
+            "cy": 183,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "cy": 183,
+            "al": 0.24,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "cy": 183,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "cy": 183,
+            "al": 0.44,
+            "x": 0
+          },
+          {
+            "frameNum": 19,
+            "y": 0,
+            "cy": 183,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_12",
+            "frameNum": 4,
+            "y": 1.05,
+            "x": 80
+          },
+          {
+            "libName": "i_13",
+            "frameNum": 4,
+            "y": 25.1,
+            "x": 83.1
+          },
+          {
+            "libName": "i_14",
+            "frameNum": 4,
+            "y": 28.5,
+            "x": 74.9
+          },
+          {
+            "libName": "i_12",
+            "frameNum": 4,
+            "y": 1.05,
+            "x": 80
+          },
+          {
+            "libName": "i_13",
+            "frameNum": 4,
+            "y": 25.1,
+            "x": 83.1
+          },
+          {
+            "libName": "i_14",
+            "frameNum": 4,
+            "y": 28.5,
+            "x": 74.9
+          }
+        ]
+      ]
+    },
+    "mc_26": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_33": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 57,
+      "screenH": 640,
+      "totalFrame": 47,
+      "layers": [
+        [{
+            "libName": "i_47",
+            "frameNum": 2,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_48",
+            "frameNum": 1,
+            "y": 0,
+            "x": -41.65
+          },
+          {
+            "libName": "i_49",
+            "frameNum": 1,
+            "y": 0,
+            "x": -4
+          },
+          {
+            "libName": "i_50",
+            "frameNum": 2,
+            "y": 4,
+            "x": 7
+          },
+          {
+            "libName": "i_51",
+            "frameNum": 1,
+            "y": 0,
+            "x": -46
+          },
+          {
+            "libName": "i_47",
+            "frameNum": 34,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_7": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 55,
+      "screenH": 640,
+      "totalFrame": 23,
+      "layers": [
+        [{
+            "libName": "i_23",
+            "frameNum": 3,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.34,
+            "x": 0
+          },
+          {
+            "frameNum": 2,
+            "y": 0,
+            "al": 0.65,
+            "x": 0
+          },
+          {
+            "frameNum": 3,
+            "y": 0,
+            "al": 0.28,
+            "x": 0
+          },
+          {
+            "frameNum": 9,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "end": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 457.6,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "mc_57",
+          "y": 280.05,
+          "x": 147.7
+        }],
+        [{
+          "libName": "i_106",
+          "cx": -0.95,
+          "y": 177.8,
+          "cy": 32.05,
+          "x": 123.65
+        }],
+        [{
+          "libName": "mc_58",
+          "cx": -2,
+          "y": 162.65,
+          "cy": -2,
+          "x": 85.15
+        }],
+        [{
+          "libName": "i_119",
+          "y": 97.75,
+          "x": 301.4
+        }],
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_2": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 302,
+      "screenH": 640,
+      "totalFrame": 32,
+      "layers": [
+        [{
+            "libName": "i_7",
+            "frameNum": 4,
+            "y": 0,
+            "cy": 73,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "cy": 73,
+            "al": 0.24,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "cy": 73,
+            "al": 0.62,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "cy": 73,
+            "x": 0
+          },
+          {
+            "libName": "i_9",
+            "frameNum": 1,
+            "y": 73,
+            "x": -25
+          },
+          {
+            "libName": "i_10",
+            "y": 73,
+            "x": -25
+          },
+          {
+            "libName": "i_7",
+            "frameNum": 17,
+            "y": 0,
+            "cy": 73,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_8",
+            "cx": 15,
+            "y": 0,
+            "x": 12.25
+          },
+          {
+            "cx": 15,
+            "y": -0.9,
+            "x": 12.25
+          },
+          {
+            "cx": 15,
+            "y": -2.45,
+            "x": 12.3
+          },
+          {
+            "cx": 15,
+            "y": -4.6,
+            "x": 12.35
+          },
+          {
+            "cx": 15,
+            "y": -7.45,
+            "x": 12.45
+          },
+          {
+            "cx": 15,
+            "y": -11,
+            "x": 12.5
+          },
+          {
+            "cx": 15,
+            "y": -15.15,
+            "x": 12.6
+          },
+          {
+            "cx": 15,
+            "y": -19.7,
+            "x": 12.75
+          },
+          {
+            "cx": 15,
+            "y": -24.35,
+            "x": 12.85
+          },
+          {
+            "cx": 15,
+            "y": -28.75,
+            "x": 12.95
+          },
+          {
+            "cx": 15,
+            "y": -32.65,
+            "x": 13.05
+          },
+          {
+            "cx": 15,
+            "y": -35.85,
+            "x": 13.15
+          },
+          {
+            "cx": 15,
+            "y": -38.25,
+            "x": 13.2
+          },
+          {
+            "cx": 15,
+            "y": -39.9,
+            "x": 13.25
+          },
+          {
+            "cx": 15,
+            "y": -40.8,
+            "x": 13.25
+          },
+          {
+            "cx": 15,
+            "y": -40.25,
+            "x": 13.25
+          },
+          {
+            "cx": 15,
+            "y": -39.15,
+            "x": 13.2
+          },
+          {
+            "cx": 15,
+            "y": -37.4,
+            "x": 13.15
+          },
+          {
+            "cx": 15,
+            "y": -34.95,
+            "x": 13.1
+          },
+          {
+            "cx": 15,
+            "y": -31.75,
+            "x": 13.05
+          },
+          {
+            "cx": 15,
+            "y": -27.95,
+            "x": 12.95
+          },
+          {
+            "cx": 15,
+            "y": -23.55,
+            "x": 12.85
+          },
+          {
+            "cx": 15,
+            "y": -18.95,
+            "x": 12.7
+          },
+          {
+            "cx": 15,
+            "y": -14.4,
+            "x": 12.6
+          },
+          {
+            "cx": 15,
+            "y": -10.2,
+            "x": 12.5
+          },
+          {
+            "cx": 15,
+            "y": -6.7,
+            "x": 12.4
+          },
+          {
+            "cx": 15,
+            "y": -3.9,
+            "x": 12.35
+          },
+          {
+            "cx": 15,
+            "y": -1.85,
+            "x": 12.3
+          },
+          {
+            "cx": 15,
+            "y": -0.6,
+            "x": 12.25
+          },
+          {
+            "cx": 15,
+            "y": 0,
+            "x": 12.25
+          },
+          {
+            "frameNum": 1
+          }
+        ]
+      ]
+    },
+    "mc_13": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_25": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_30": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "ani2": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 1139,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_32",
+          "y": 431,
+          "x": 440
+        }],
+        [{
+          "libName": "mc_20",
+          "y": 0,
+          "x": 79
+        }],
+        [{
+          "libName": "i_38",
+          "y": 269,
+          "x": 0
+        }],
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_63": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 253,
+      "screenH": 640,
+      "totalFrame": 54,
+      "layers": [
+        [{
+            "libName": "i_126",
+            "frameNum": 8,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.31,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.73,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.46,
+            "x": 0
+          },
+          {
+            "frameNum": 39,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_127",
+            "frameNum": 12,
+            "y": 14.95,
+            "x": 11.05
+          },
+          {
+            "frameNum": 1,
+            "y": 14.95,
+            "al": 0.31,
+            "x": 11.05
+          },
+          {
+            "y": 14.95,
+            "al": 0.73,
+            "x": 11.05
+          },
+          {
+            "frameNum": 1,
+            "y": 14.95,
+            "al": 0.46,
+            "x": 11.05
+          },
+          {
+            "frameNum": 35,
+            "y": 14.95,
+            "x": 11.05
+          }
+        ]
+      ]
+    },
+    "mc_19": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "main_btn": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 158,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "mc_54",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_55",
+          "y": 14,
+          "x": 61
+        }],
+        [{
+          "libName": "mc_56",
+          "y": 44,
+          "x": 4
+        }]
+      ]
+    },
+    "mc_49": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 104,
+      "screenH": 640,
+      "totalFrame": 9,
+      "layers": [
+        [{
+          "libName": "mc_50",
+          "frameNum": 8,
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_35": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 35,
+      "screenH": 640,
+      "totalFrame": 21,
+      "layers": [
+        [{
+            "libName": "i_54",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.2,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "frameNum": 16,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_44": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 466.95,
+      "screenH": 640,
+      "totalFrame": 41,
+      "layers": [
+        [{
+            "frameNum": 1,
+            "y": 0,
+            "b": 0.1348,
+            "x": 59.85,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "libName": "i_68"
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "b": 0.1348,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "al": 0.35,
+            "x": 59.85
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "b": 0.1348,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "al": 0.67,
+            "x": 59.85
+          },
+          {
+            "y": 0,
+            "b": 0.1348,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "al": 0.29,
+            "x": 59.85
+          },
+          {
+            "frameNum": 5,
+            "a": 0.9909,
+            "b": 0.1348,
+            "c": -0.1348,
+            "y": 0,
+            "d": 0.9909,
+            "x": 59.85
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "b": 0.1348,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "al": 0.35,
+            "x": 55.85
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "b": 0.1348,
+            "c": -0.1348,
+            "a": 0.9909,
+            "d": 0.9909,
+            "al": 0.26,
+            "x": 66.85
+          },
+          {
+            "frameNum": 23,
+            "a": 0.9909,
+            "b": 0.1348,
+            "c": -0.1348,
+            "y": 0,
+            "d": 0.9909,
+            "x": 59.85
+          }
+        ]
+      ]
+    },
+    "mc_51": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 166,
+      "screenH": 640,
+      "totalFrame": 13,
+      "layers": [
+        [{
+            "libName": "i_80",
+            "frameNum": 2,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_81",
+            "frameNum": 2,
+            "y": 6,
+            "x": -1
+          },
+          {
+            "libName": "i_82",
+            "frameNum": 2,
+            "y": -5,
+            "x": -2
+          },
+          {
+            "libName": "i_83",
+            "frameNum": 3,
+            "y": 1,
+            "x": 3
+          }
+        ]
+      ]
+    },
+    "mc_6": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 123,
+      "screenH": 640,
+      "totalFrame": 29,
+      "layers": [
+        [{
+            "libName": "i_22",
+            "frameNum": 4,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.27,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.78,
+            "x": 0
+          },
+          {
+            "frameNum": 2,
+            "y": 0,
+            "al": 0.37,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.68,
+            "x": 0
+          },
+          {
+            "frameNum": 15,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_20": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 308,
+      "screenH": 640,
+      "totalFrame": 25,
+      "layers": [
+        [{
+            "libName": "i_33",
+            "cx": 30,
+            "y": 0,
+            "frameNum": 3,
+            "x": 0
+          },
+          {
+            "cx": 30,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.21,
+            "x": 0
+          },
+          {
+            "cx": 30,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.69,
+            "x": 0
+          },
+          {
+            "cx": 30,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.28,
+            "x": 0
+          },
+          {
+            "cx": 30,
+            "frameNum": 14,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_34",
+            "frameNum": 3,
+            "y": 239.2,
+            "x": 0
+          },
+          {
+            "libName": "i_35",
+            "frameNum": 3,
+            "y": 241.45,
+            "x": 5.9
+          },
+          {
+            "libName": "i_36",
+            "frameNum": 3,
+            "y": 242.15,
+            "x": 4.25
+          },
+          {
+            "libName": "i_34",
+            "frameNum": 3,
+            "y": 239.2,
+            "x": 0
+          },
+          {
+            "libName": "i_37",
+            "frameNum": 3,
+            "y": 241.45,
+            "x": 5.9
+          },
+          {
+            "libName": "i_36",
+            "frameNum": 4,
+            "y": 242.15,
+            "x": 4.25
+          }
+        ]
+      ]
+    },
+    "ani3": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 1139,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_45",
+          "y": 340,
+          "x": 19
+        }],
+        [{
+          "libName": "mc_46",
+          "y": 722,
+          "x": 470
+        }],
+        [{
+          "libName": "mc_47",
+          "y": 107,
+          "x": 358
+        }],
+        [{
+          "libName": "mc_49",
+          "y": 134,
+          "x": 500
+        }],
+        [{
+          "libName": "mc_51",
+          "y": 521,
+          "x": 73
+        }],
+        [{
+          "libName": "mc_52",
+          "y": 394,
+          "x": 231
+        }],
+        [{
+          "libName": "mc_53",
+          "y": 126,
+          "x": 65
+        }]
+      ]
+    },
+    "mc_18": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "xu": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 66,
+      "screenH": 640,
+      "totalFrame": 60,
+      "layers": [
+        [{
+            "cx": 4.4,
+            "y": 8.7,
+            "cy": 3.95,
+            "x": 34.15,
+            "frameNum": 15,
+            "libName": "i_98"
+          },
+          {
+            "cx": 4.4,
+            "y": 8.7,
+            "cy": 3.95,
+            "frameNum": 1,
+            "al": 0.46,
+            "x": 34.15
+          },
+          {
+            "cx": 4.4,
+            "frameNum": 1,
+            "y": 8.7,
+            "cy": 3.95,
+            "x": 34.15
+          },
+          {
+            "cx": 4.4,
+            "y": 8.7,
+            "cy": 3.95,
+            "frameNum": 1,
+            "al": 0.46,
+            "x": 34.15
+          },
+          {
+            "cx": 4.4,
+            "frameNum": 37,
+            "y": 8.7,
+            "cy": 3.95,
+            "x": 34.15
+          }
+        ],
+        [{
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "x": 3.8,
+            "frameNum": 6,
+            "libName": "i_99"
+          },
+          {
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "al": 0.12,
+            "x": 3.8
+          },
+          {
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "al": 0.73,
+            "x": 3.8
+          },
+          {
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "al": 0.24,
+            "x": 3.8
+          },
+          {
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "al": 0.68,
+            "x": 3.8
+          },
+          {
+            "cx": -1.8,
+            "y": 37.3,
+            "cy": -1,
+            "al": 0.05,
+            "x": 3.8
+          },
+          {
+            "cx": -1.8,
+            "frameNum": 47,
+            "y": 37.3,
+            "cy": -1,
+            "x": 3.8
+          }
+        ],
+        [{
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "x": 12.3,
+            "frameNum": 10,
+            "libName": "i_100"
+          },
+          {
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "al": 0.12,
+            "x": 12.3
+          },
+          {
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "al": 0.73,
+            "x": 12.3
+          },
+          {
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "al": 0.24,
+            "x": 12.3
+          },
+          {
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "al": 0.68,
+            "x": 12.3
+          },
+          {
+            "cx": -1,
+            "y": 5.1,
+            "cy": -1.1,
+            "al": 0.05,
+            "x": 12.3
+          },
+          {
+            "cx": -1,
+            "frameNum": 43,
+            "y": 5.1,
+            "cy": -1.1,
+            "x": 12.3
+          }
+        ],
+        [{
+            "frameNum": 2
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 56,
+            "y": 29.2,
+            "x": 90.75
+          }
+        ],
+        [{
+            "frameNum": 5
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 53,
+            "y": 29.2,
+            "x": 114.05
+          }
+        ],
+        [{
+            "frameNum": 8
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 50,
+            "y": 29.2,
+            "x": 137.3
+          }
+        ],
+        [{
+            "frameNum": 11
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 47,
+            "y": 29.2,
+            "x": 160.55
+          }
+        ],
+        [{
+            "frameNum": 14
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 44,
+            "y": 29.2,
+            "x": 183.85
+          }
+        ],
+        [{
+            "frameNum": 17
+          },
+          {
+            "libName": "i_101",
+            "frameNum": 41,
+            "y": 29.2,
+            "x": 207.1
+          }
+        ]
+      ]
+    },
+    "mc_11": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_47": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 243,
+      "screenH": 640,
+      "totalFrame": 9,
+      "layers": [
+        [{
+          "libName": "mc_48",
+          "frameNum": 8,
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_37": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 64,
+      "screenH": 640,
+      "totalFrame": 18,
+      "layers": [
+        [{
+            "libName": "i_56",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.67,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.83,
+            "x": 0
+          },
+          {
+            "frameNum": 11,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_28": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_4": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 254,
+      "screenH": 640,
+      "totalFrame": 46,
+      "layers": [
+        [{
+            "libName": "i_15",
+            "frameNum": 4,
+            "y": 41.5,
+            "cy": 2,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 41.5,
+            "cy": 2,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 41.5,
+            "cy": 2,
+            "al": 0.74,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 41.5,
+            "cy": 2,
+            "al": 0.36,
+            "x": 0
+          },
+          {
+            "frameNum": 34,
+            "y": 41.5,
+            "cy": 2,
+            "x": 0
+          }
+        ],
+        [{
+            "cx": 4,
+            "y": 4.35,
+            "cy": 25,
+            "x": 0,
+            "frameNum": 8,
+            "libName": "i_16"
+          },
+          {
+            "cx": 4,
+            "y": 4.35,
+            "cy": 25,
+            "frameNum": 1,
+            "al": 0.28,
+            "x": 0
+          },
+          {
+            "cx": 4,
+            "y": 4.35,
+            "cy": 25,
+            "frameNum": 1,
+            "al": 0.77,
+            "x": 0
+          },
+          {
+            "cx": 4,
+            "y": 4.35,
+            "cy": 25,
+            "frameNum": 1,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "cx": 4,
+            "frameNum": 30,
+            "y": 4.35,
+            "cy": 25,
+            "x": 0
+          }
+        ],
+        [{
+            "cx": 9,
+            "y": 0,
+            "cy": 12,
+            "x": 60.4,
+            "frameNum": 6,
+            "libName": "i_17"
+          },
+          {
+            "cx": 9,
+            "y": 0,
+            "cy": 12,
+            "frameNum": 1,
+            "al": 0.28,
+            "x": 60.4
+          },
+          {
+            "cx": 9,
+            "y": 0,
+            "cy": 12,
+            "frameNum": 1,
+            "al": 0.77,
+            "x": 60.4
+          },
+          {
+            "cx": 9,
+            "y": 0,
+            "cy": 12,
+            "frameNum": 1,
+            "al": 0.3,
+            "x": 60.4
+          },
+          {
+            "cx": 9,
+            "frameNum": 32,
+            "y": 0,
+            "cy": 12,
+            "x": 60.4
+          }
+        ],
+        [{
+            "libName": "i_18",
+            "cx": 14,
+            "y": 0,
+            "frameNum": 2,
+            "x": 126.65
+          },
+          {
+            "cx": 14,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.28,
+            "x": 126.65
+          },
+          {
+            "cx": 14,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.77,
+            "x": 126.65
+          },
+          {
+            "cx": 14,
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.3,
+            "x": 126.65
+          },
+          {
+            "cx": 14,
+            "frameNum": 36,
+            "y": 0,
+            "x": 126.65
+          }
+        ],
+        [{
+            "cx": 8,
+            "y": 37.25,
+            "cy": 13,
+            "x": 197.05,
+            "frameNum": 13,
+            "libName": "i_19"
+          },
+          {
+            "cx": 8,
+            "y": 37.25,
+            "cy": 13,
+            "frameNum": 1,
+            "al": 0.28,
+            "x": 197.05
+          },
+          {
+            "cx": 8,
+            "y": 37.25,
+            "cy": 13,
+            "frameNum": 1,
+            "al": 0.77,
+            "x": 197.05
+          },
+          {
+            "cx": 8,
+            "y": 37.25,
+            "cy": 13,
+            "frameNum": 1,
+            "al": 0.3,
+            "x": 197.05
+          },
+          {
+            "cx": 8,
+            "frameNum": 25,
+            "y": 37.25,
+            "cy": 13,
+            "x": 197.05
+          }
+        ],
+        [{
+            "cx": 7,
+            "y": 102.7,
+            "cy": 6,
+            "x": 248.2,
+            "frameNum": 7,
+            "libName": "i_20"
+          },
+          {
+            "cx": 7,
+            "y": 102.7,
+            "cy": 6,
+            "frameNum": 1,
+            "al": 0.28,
+            "x": 248.2
+          },
+          {
+            "cx": 7,
+            "y": 102.7,
+            "cy": 6,
+            "frameNum": 1,
+            "al": 0.77,
+            "x": 248.2
+          },
+          {
+            "cx": 7,
+            "y": 102.7,
+            "cy": 6,
+            "frameNum": 1,
+            "al": 0.3,
+            "x": 248.2
+          },
+          {
+            "cx": 7,
+            "frameNum": 31,
+            "y": 102.7,
+            "cy": 6,
+            "x": 248.2
+          }
+        ]
+      ]
+    },
+    "mc_27": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_61": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 264,
+      "screenH": 640,
+      "totalFrame": 32,
+      "layers": [
+        [{
+            "libName": "i_120",
+            "frameNum": 13,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.16,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.72,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.33,
+            "x": 0
+          },
+          {
+            "frameNum": 11,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_121",
+            "frameNum": 9,
+            "y": 10.1,
+            "x": 12.6
+          },
+          {
+            "frameNum": 1,
+            "y": 10.1,
+            "al": 0.16,
+            "x": 12.6
+          },
+          {
+            "frameNum": 1,
+            "y": 10.1,
+            "al": 0.72,
+            "x": 12.6
+          },
+          {
+            "frameNum": 1,
+            "y": 10.1,
+            "al": 0.33,
+            "x": 12.6
+          },
+          {
+            "frameNum": 15,
+            "y": 10.1,
+            "x": 12.6
+          }
+        ]
+      ]
+    },
+    "mc_53": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 350,
+      "screenH": 640,
+      "totalFrame": 20,
+      "layers": [
+        [{
+          "libName": "i_85",
+          "frameNum": 19,
+          "y": 0,
+          "x": 21
+        }],
+        [{
+            "libName": "i_86",
+            "frameNum": 3,
+            "y": 40.5,
+            "x": 0
+          },
+          {
+            "libName": "i_87",
+            "frameNum": 3,
+            "y": 40.5,
+            "x": -23
+          },
+          {
+            "libName": "i_88",
+            "frameNum": 3,
+            "y": 40.5,
+            "x": -48.8
+          },
+          {
+            "libName": "i_89",
+            "frameNum": 3,
+            "y": 40.5,
+            "x": -87.5
+          },
+          {
+            "libName": "i_90",
+            "frameNum": 3,
+            "y": 40.5,
+            "x": -25.1
+          }
+        ]
+      ]
+    },
+    "mc_60": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2.95,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_64": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 118,
+      "screenH": 640,
+      "totalFrame": 35,
+      "layers": [
+        [{
+            "libName": "i_128",
+            "frameNum": 3,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.23,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.79,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.24,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.78,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.52,
+            "x": 0
+          },
+          {
+            "frameNum": 4,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_130",
+            "frameNum": 1,
+            "y": 0.45,
+            "x": -34
+          },
+          {
+            "libName": "i_128",
+            "frameNum": 18,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_129",
+            "frameNum": 6,
+            "y": 33.05,
+            "x": 36.6
+          },
+          {
+            "y": 33.05,
+            "al": 0.24,
+            "x": 36.6
+          },
+          {
+            "y": 33.05,
+            "al": 0.74,
+            "x": 36.6
+          },
+          {
+            "y": 33.05,
+            "al": 0.15,
+            "x": 36.6
+          },
+          {
+            "y": 33.05,
+            "x": 36.6
+          },
+          {
+            "y": 33.05,
+            "al": 0.68,
+            "x": 36.6
+          },
+          {
+            "frameNum": 1,
+            "y": 33.05,
+            "x": 36.6
+          },
+          {
+            "frameNum": 1
+          },
+          {
+            "libName": "i_129",
+            "frameNum": 18,
+            "y": 33.05,
+            "x": 36.6
+          }
+        ]
+      ]
+    },
+    "mc_40": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 51,
+      "screenH": 640,
+      "totalFrame": 24,
+      "layers": [
+        [{
+            "libName": "i_62",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.08,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.2,
+            "x": 0
+          },
+          {
+            "frameNum": 18,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_65": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 853,
+      "screenH": 640,
+      "totalFrame": 59,
+      "layers": [
+        [{
+            "libName": "i_131",
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_132",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_134",
+            "frameNum": 1,
+            "y": 0,
+            "x": 15
+          },
+          {
+            "libName": "i_132",
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_131",
+            "frameNum": 51,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "frameNum": 1
+          },
+          {
+            "libName": "i_133",
+            "y": 0,
+            "al": 0.53,
+            "x": -22
+          },
+          {
+            "frameNum": 1
+          },
+          {
+            "libName": "i_133",
+            "frameNum": 1,
+            "y": 4,
+            "al": 0.06,
+            "x": -8
+          },
+          {
+            "frameNum": 51
+          }
+        ]
+      ]
+    },
+    "mc_46": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 145,
+      "screenH": 640,
+      "totalFrame": 35,
+      "layers": [
+        [{
+            "libName": "i_72",
+            "frameNum": 1,
+            "y": 11,
+            "x": 0
+          },
+          {
+            "libName": "i_73",
+            "frameNum": 1,
+            "y": 2.9,
+            "x": 4.3
+          },
+          {
+            "libName": "i_72",
+            "frameNum": 1,
+            "y": 11,
+            "x": 0
+          },
+          {
+            "libName": "i_73",
+            "frameNum": 1,
+            "y": 2.9,
+            "x": 4.3
+          },
+          {
+            "libName": "i_72",
+            "frameNum": 18,
+            "y": 11,
+            "x": 0
+          },
+          {
+            "libName": "i_73",
+            "frameNum": 1,
+            "y": 2.9,
+            "x": 4.3
+          },
+          {
+            "libName": "i_72",
+            "frameNum": 5,
+            "y": 11,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_36": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 46,
+      "screenH": 640,
+      "totalFrame": 3,
+      "layers": [
+        [{
+            "libName": "i_55",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "a": 1.0442,
+            "y": 0,
+            "x": -8
+          },
+          {
+            "a": 0.9888,
+            "y": 0,
+            "x": 2
+          }
+        ]
+      ]
+    },
+    "mc_29": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_56": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 35,
+      "screenH": 640,
+      "totalFrame": 30,
+      "layers": [
+        [{
+            "libName": "i_93",
+            "frameNum": 2,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_94",
+            "y": 1.2,
+            "x": -9
+          },
+          {
+            "libName": "i_95",
+            "y": 0,
+            "x": 4
+          },
+          {
+            "libName": "i_96",
+            "y": 0.2,
+            "x": -14
+          },
+          {
+            "libName": "i_97",
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_93",
+            "frameNum": 21,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "ani4": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 1139,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_61",
+          "y": 351,
+          "x": 461
+        }],
+        [{
+          "libName": "mc_62",
+          "y": 568,
+          "x": 97
+        }],
+        [{
+          "libName": "mc_63",
+          "y": 179,
+          "x": 56
+        }],
+        [{
+          "libName": "mc_64",
+          "y": 124,
+          "x": 333
+        }],
+        [{
+          "libName": "mc_65",
+          "y": 286,
+          "x": 9
+        }]
+      ]
+    },
+    "mc_22": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_8": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 48.5,
+      "screenH": 640,
+      "totalFrame": 75,
+      "layers": [
+        [{
+          "cx": -0.5,
+          "y": 0.5,
+          "cy": -0.5,
+          "x": 0.5,
+          "frameNum": 74,
+          "libName": "mc_9"
+        }],
+        [{
+            "libName": "i_28",
+            "frameNum": 21,
+            "y": 11.5,
+            "x": 79.5
+          },
+          {
+            "libName": "i_30",
+            "frameNum": 1,
+            "y": 11.5,
+            "x": 77.5
+          },
+          {
+            "libName": "i_28",
+            "frameNum": 1,
+            "y": 12.5,
+            "x": 80.5
+          },
+          {
+            "libName": "i_31",
+            "frameNum": 1,
+            "y": 12.5,
+            "x": 70.5
+          },
+          {
+            "libName": "i_28",
+            "frameNum": 1,
+            "y": 12.5,
+            "x": 80.5
+          },
+          {
+            "frameNum": 44,
+            "y": 11.5,
+            "x": 79.5
+          }
+        ],
+        [{
+          "libName": "mc_10",
+          "frameNum": 74,
+          "y": 8.75,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_11",
+          "frameNum": 74,
+          "y": 14.5,
+          "al": 0.15,
+          "x": 171.6
+        }],
+        [{
+          "libName": "mc_12",
+          "frameNum": 74,
+          "y": 14.5,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_13",
+          "frameNum": 74,
+          "y": 20.25,
+          "al": 0.15,
+          "x": 171.6
+        }],
+        [{
+          "libName": "mc_14",
+          "frameNum": 74,
+          "y": 20.25,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_15",
+          "frameNum": 74,
+          "y": 26,
+          "al": 0.15,
+          "x": 177.9
+        }],
+        [{
+          "libName": "mc_16",
+          "frameNum": 74,
+          "y": 26,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_17",
+          "frameNum": 74,
+          "y": 37.5,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_18",
+          "frameNum": 74,
+          "y": 31.75,
+          "al": 0.15,
+          "x": 171.6
+        }],
+        [{
+          "libName": "mc_19",
+          "frameNum": 74,
+          "y": 31.75,
+          "al": 0.15,
+          "x": 5
+        }]
+      ]
+    },
+    "main": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 1139,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_33",
+          "y": 268,
+          "x": 74
+        }],
+        [{
+          "libName": "mc_34",
+          "y": 135,
+          "x": 117
+        }],
+        [{
+          "libName": "i_53",
+          "y": 97,
+          "x": 301
+        }],
+        [{
+          "libName": "mc_35",
+          "y": 170,
+          "x": 156
+        }],
+        [{
+          "libName": "mc_36",
+          "y": 207,
+          "x": 139
+        }],
+        [{
+          "libName": "mc_37",
+          "y": 200,
+          "x": 169
+        }],
+        [{
+          "libName": "mc_38",
+          "y": 477,
+          "x": 428
+        }],
+        [{
+          "libName": "mc_39",
+          "y": 332,
+          "x": 18
+        }],
+        [{
+          "libName": "mc_40",
+          "y": 357,
+          "x": 234
+        }],
+        [{
+          "libName": "mc_41",
+          "y": 430,
+          "x": 228
+        }],
+        [{
+          "libName": "mc_42",
+          "y": 616,
+          "x": 169
+        }],
+        [{
+          "libName": "mc_44",
+          "cx": 0.6,
+          "y": 471,
+          "cy": -19.05,
+          "x": 31
+        }]
+      ]
+    },
+    "mc_50": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 104,
+      "screenH": 640,
+      "totalFrame": 8,
+      "layers": [
+        [{
+          "frameNum": 7
+        }],
+        [{
+            "libName": "i_77",
+            "frameNum": 1,
+            "y": 65.75,
+            "cy": 4,
+            "x": 88.4
+          },
+          {
+            "frameNum": 1,
+            "y": 81.5,
+            "cy": 4,
+            "x": 109.75
+          },
+          {
+            "frameNum": 1,
+            "y": 68.75,
+            "cy": 4,
+            "x": 96.4
+          },
+          {
+            "frameNum": 1,
+            "y": 65.75,
+            "cy": 4,
+            "x": 88.4
+          }
+        ],
+        [{
+            "libName": "i_78",
+            "frameNum": 1,
+            "y": 76.15,
+            "x": 80.3
+          },
+          {
+            "frameNum": 1,
+            "y": 83.15,
+            "x": 88.3
+          },
+          {
+            "frameNum": 1,
+            "y": 86.15,
+            "x": 94.3
+          },
+          {
+            "frameNum": 1,
+            "y": 76.15,
+            "x": 80.3
+          }
+        ],
+        [{
+            "libName": "i_79",
+            "frameNum": 1,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": -4,
+            "x": -2
+          },
+          {
+            "frameNum": 1,
+            "y": 1,
+            "x": -2
+          },
+          {
+            "frameNum": 1,
+            "y": -3,
+            "x": -3
+          }
+        ]
+      ]
+    },
+    "mc_9": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 48.5,
+      "screenH": 640,
+      "totalFrame": 76,
+      "layers": [
+        [{
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 124.7,
+            "frameNum": 9,
+            "libName": "i_24"
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.14,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.81,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.26,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.57,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 61,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 124.7
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 0.5,
+            "frameNum": 20,
+            "libName": "i_25"
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.14,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.81,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.26,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.57,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 50,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 0.5
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 0.5,
+            "frameNum": 5,
+            "libName": "i_26"
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.14,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.81,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.26,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.57,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 65,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 0.5
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 124.7,
+            "frameNum": 15,
+            "libName": "i_27"
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.14,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.81,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.26,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.57,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 9,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.14,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.81,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.26,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.57,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 41,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 124.7
+          }
+        ]
+      ]
+    },
+    "mc_15": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_54": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 158,
+      "screenH": 640,
+      "totalFrame": 23,
+      "layers": [
+        [{
+            "libName": "i_91",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.95,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.89,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.84,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.78,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.73,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.67,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.62,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.56,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.51,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.45,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.4,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.45,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.51,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.56,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.62,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.67,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.73,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.78,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.84,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.89,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.95,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_17": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_38": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 141,
+      "screenH": 640,
+      "totalFrame": 27,
+      "layers": [
+        [{
+            "libName": "i_57",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.2,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "frameNum": 21,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "btn_me": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 48.5,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "mc_8",
+          "cx": -0.5,
+          "y": 0.5,
+          "cy": -0.5,
+          "x": 0.5
+        }]
+      ]
+    },
+    "mc_31": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_12": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_52": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 228,
+      "screenH": 640,
+      "totalFrame": 21,
+      "layers": [
+        [{
+            "libName": "i_84",
+            "frameNum": 3,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.33,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.75,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.33,
+            "x": 0
+          },
+          {
+            "frameNum": 10,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_10": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_5": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 69,
+      "screenH": 640,
+      "totalFrame": 44,
+      "layers": [
+        [{
+            "libName": "i_21",
+            "frameNum": 4,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.29,
+            "x": 0
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.73,
+            "x": 0
+          },
+          {
+            "frameNum": 3,
+            "y": 0,
+            "al": 0.45,
+            "x": 0
+          },
+          {
+            "frameNum": 30,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_57": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 65,
+      "screenH": 640,
+      "totalFrame": 57,
+      "layers": [
+        [{
+            "cx": 2,
+            "y": 0,
+            "cy": 1,
+            "x": 4.55,
+            "frameNum": 28,
+            "libName": "i_102"
+          },
+          {
+            "cx": 2,
+            "frameNum": 1,
+            "y": 0,
+            "cy": 1,
+            "x": 12.55
+          },
+          {
+            "libName": "i_104",
+            "frameNum": 1,
+            "y": 1,
+            "x": 0
+          },
+          {
+            "libName": "i_105",
+            "frameNum": 1,
+            "y": 1.4,
+            "x": -27.55
+          },
+          {
+            "cx": 2,
+            "y": 0,
+            "cy": 1,
+            "x": 4.55,
+            "frameNum": 21,
+            "libName": "i_102"
+          }
+        ],
+        [{
+            "cx": 2,
+            "y": 0,
+            "cy": 1,
+            "x": 0,
+            "frameNum": 28,
+            "libName": "i_103"
+          },
+          {
+            "cx": 2,
+            "frameNum": 1,
+            "y": 0,
+            "cy": 1,
+            "x": -7
+          },
+          {
+            "frameNum": 3
+          },
+          {
+            "cx": 2,
+            "y": 0,
+            "cy": 1,
+            "x": 0,
+            "frameNum": 21,
+            "libName": "i_103"
+          }
+        ]
+      ]
+    },
+    "mc_0": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 811,
+      "screenH": 640,
+      "totalFrame": 40,
+      "layers": [
+        [{
+            "libName": "i_2",
+            "frameNum": 6,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_3",
+            "frameNum": 1,
+            "y": 0,
+            "x": -28
+          },
+          {
+            "libName": "i_4",
+            "frameNum": 3,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_2",
+            "frameNum": 26,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "frameNum": 8
+          },
+          {
+            "libName": "i_5",
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.44,
+            "x": 46
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.35,
+            "x": -16
+          },
+          {
+            "frameNum": 26
+          }
+        ]
+      ]
+    },
+    "mc_48": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 243,
+      "screenH": 640,
+      "totalFrame": 9,
+      "layers": [
+        [{
+            "libName": "i_74",
+            "frameNum": 2,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_75",
+            "frameNum": 2,
+            "y": -9,
+            "x": 1
+          },
+          {
+            "libName": "i_76",
+            "frameNum": 2,
+            "y": 4,
+            "x": -5
+          }
+        ]
+      ]
+    },
+    "btn_share": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 48.5,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "mc_21",
+          "cx": -0.5,
+          "y": 0.5,
+          "cy": -0.5,
+          "x": 0.5
+        }],
+        [{
+          "libName": "mc_32",
+          "y": 7.5,
+          "x": 75.5
+        }]
+      ]
+    },
+    "mc_24": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_58": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 296.95,
+      "screenH": 640,
+      "totalFrame": 100,
+      "layers": [
+        [{
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "x": 285.45,
+            "frameNum": 22,
+            "libName": "i_107"
+          },
+          {
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "al": 0.3,
+            "x": 285.45
+          },
+          {
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "al": 0.86,
+            "x": 285.45
+          },
+          {
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "al": 0.27,
+            "x": 285.45
+          },
+          {
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "al": 0.88,
+            "x": 285.45
+          },
+          {
+            "cx": -2,
+            "y": 2,
+            "cy": -2,
+            "al": 0.36,
+            "x": 285.45
+          },
+          {
+            "cx": -2,
+            "frameNum": 71,
+            "y": 2,
+            "cy": -2,
+            "x": 285.45
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 13,
+            "cy": -2,
+            "x": 180.1,
+            "frameNum": 17,
+            "libName": "i_108"
+          },
+          {
+            "cx": -2,
+            "y": 13,
+            "cy": -2,
+            "frameNum": 1,
+            "al": 0.36,
+            "x": 180.1
+          },
+          {
+            "cx": -2,
+            "frameNum": 79,
+            "y": 13,
+            "cy": -2,
+            "x": 180.1
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "x": 2,
+            "frameNum": 14,
+            "libName": "i_109"
+          },
+          {
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "al": 0.3,
+            "x": 2
+          },
+          {
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "al": 0.86,
+            "x": 2
+          },
+          {
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "al": 0.27,
+            "x": 2
+          },
+          {
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "al": 0.88,
+            "x": 2
+          },
+          {
+            "cx": -2,
+            "y": 136,
+            "cy": -2,
+            "al": 0.36,
+            "x": 2
+          },
+          {
+            "cx": -2,
+            "frameNum": 79,
+            "y": 136,
+            "cy": -2,
+            "x": 2
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "x": 98.05,
+            "frameNum": 21,
+            "libName": "i_110"
+          },
+          {
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "al": 0.3,
+            "x": 98.05
+          },
+          {
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "al": 0.86,
+            "x": 98.05
+          },
+          {
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "al": 0.27,
+            "x": 98.05
+          },
+          {
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "al": 0.88,
+            "x": 98.05
+          },
+          {
+            "cx": -2,
+            "y": 79.55,
+            "cy": -2,
+            "al": 0.36,
+            "x": 98.05
+          },
+          {
+            "cx": -2,
+            "frameNum": 72,
+            "y": 79.55,
+            "cy": -2,
+            "x": 98.05
+          }
+        ],
+        [{
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 22.15,
+            "frameNum": 16,
+            "libName": "i_111"
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.3,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.86,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.27,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.88,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.36,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "frameNum": 77,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 22.15
+          }
+        ],
+        [{
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 263.7,
+            "frameNum": 14,
+            "libName": "i_112"
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.3,
+            "x": 263.7
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.86,
+            "x": 263.7
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.27,
+            "x": 263.7
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.88,
+            "x": 263.7
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.36,
+            "x": 263.7
+          },
+          {
+            "cx": -0.65,
+            "frameNum": 79,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 263.7
+          }
+        ],
+        [{
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 383.2,
+            "frameNum": 27,
+            "libName": "i_113"
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.3,
+            "x": 383.2
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.86,
+            "x": 383.2
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.27,
+            "x": 383.2
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.88,
+            "x": 383.2
+          },
+          {
+            "cx": -0.65,
+            "y": 27.6,
+            "cy": -1.8,
+            "al": 0.36,
+            "x": 383.2
+          },
+          {
+            "cx": -0.65,
+            "frameNum": 66,
+            "y": 27.6,
+            "cy": -1.8,
+            "x": 383.2
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "x": 299.3,
+            "frameNum": 23,
+            "libName": "i_114"
+          },
+          {
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "al": 0.3,
+            "x": 299.3
+          },
+          {
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "al": 0.86,
+            "x": 299.3
+          },
+          {
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "al": 0.27,
+            "x": 299.3
+          },
+          {
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "al": 0.88,
+            "x": 299.3
+          },
+          {
+            "cx": -2,
+            "y": 75.8,
+            "cy": -2,
+            "al": 0.36,
+            "x": 299.3
+          },
+          {
+            "cx": -2,
+            "frameNum": 70,
+            "y": 75.8,
+            "cy": -2,
+            "x": 299.3
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "x": 189.85,
+            "frameNum": 30,
+            "libName": "mc_59"
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.3,
+            "x": 189.85
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.86,
+            "x": 189.85
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.27,
+            "x": 189.85
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.88,
+            "x": 189.85
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.36,
+            "x": 189.85
+          },
+          {
+            "cx": -2,
+            "frameNum": 63,
+            "y": 184.55,
+            "cy": -2,
+            "x": 189.85
+          }
+        ],
+        [{
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "x": 124.55,
+            "frameNum": 21,
+            "libName": "i_116"
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.3,
+            "x": 124.55
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.86,
+            "x": 124.55
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.27,
+            "x": 124.55
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.88,
+            "x": 124.55
+          },
+          {
+            "cx": -2,
+            "y": 184.55,
+            "cy": -2,
+            "al": 0.36,
+            "x": 124.55
+          },
+          {
+            "cx": -2,
+            "frameNum": 72,
+            "y": 184.55,
+            "cy": -2,
+            "x": 124.55
+          }
+        ],
+        [{
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "x": 22.15,
+            "frameNum": 26,
+            "libName": "i_117"
+          },
+          {
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "al": 0.3,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "al": 0.86,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "al": 0.27,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "al": 0.88,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "y": 265.45,
+            "cy": -1.8,
+            "al": 0.36,
+            "x": 22.15
+          },
+          {
+            "cx": -0.65,
+            "frameNum": 67,
+            "y": 265.45,
+            "cy": -1.8,
+            "x": 22.15
+          }
+        ],
+        [{
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "x": 245.05,
+            "frameNum": 16,
+            "libName": "i_118"
+          },
+          {
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "al": 0.3,
+            "x": 245.05
+          },
+          {
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "al": 0.86,
+            "x": 245.05
+          },
+          {
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "al": 0.27,
+            "x": 245.05
+          },
+          {
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "al": 0.88,
+            "x": 245.05
+          },
+          {
+            "cx": -0.65,
+            "y": 135.3,
+            "cy": -0.65,
+            "al": 0.36,
+            "x": 245.05
+          },
+          {
+            "cx": -0.65,
+            "frameNum": 77,
+            "y": 135.3,
+            "cy": -0.65,
+            "x": 245.05
+          }
+        ]
+      ]
+    },
+    "mc_23": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_43": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 84,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_67",
+          "y": 27.8,
+          "x": 1
+        }],
+        [{
+          "libName": "i_64",
+          "y": 0,
+          "x": 7.2
+        }]
+      ]
+    },
+    "mc_45": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 799,
+      "screenH": 640,
+      "totalFrame": 39,
+      "layers": [
+        [{
+            "libName": "i_69",
+            "frameNum": 5,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_71",
+            "frameNum": 1,
+            "y": -1,
+            "x": -11
+          },
+          {
+            "libName": "i_69",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "x": 11
+          },
+          {
+            "frameNum": 28,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_70",
+            "frameNum": 3,
+            "y": 0,
+            "x": 12
+          },
+          {
+            "frameNum": 1,
+            "y": 0,
+            "al": 0.21,
+            "x": 60
+          },
+          {
+            "frameNum": 1
+          },
+          {
+            "libName": "i_70",
+            "y": 0,
+            "x": 12
+          },
+          {},
+          {
+            "libName": "i_70",
+            "frameNum": 28,
+            "y": 0,
+            "x": 12
+          }
+        ]
+      ]
+    },
+    "mc_39": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 807,
+      "screenH": 640,
+      "totalFrame": 52,
+      "layers": [
+        [{
+          "libName": "i_58",
+          "frameNum": 51,
+          "y": 0,
+          "x": 25
+        }],
+        [{
+            "libName": "i_59",
+            "frameNum": 1,
+            "y": 1,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "y": 1,
+            "al": 0.5,
+            "x": 12
+          },
+          {
+            "libName": "i_60",
+            "y": 0,
+            "x": 25
+          },
+          {
+            "frameNum": 4
+          },
+          {
+            "libName": "i_61",
+            "y": 1,
+            "x": 0
+          },
+          {
+            "frameNum": 41
+          }
+        ]
+      ]
+    },
+    "mc_41": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 70,
+      "screenH": 640,
+      "totalFrame": 18,
+      "layers": [
+        [{
+            "libName": "i_63",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "frameNum": 15,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_34": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 239,
+      "screenH": 640,
+      "totalFrame": 39,
+      "layers": [
+        [{
+            "libName": "i_52",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.2,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.3,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.39,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.48,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.56,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.65,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.74,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.82,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.91,
+            "x": 0
+          },
+          {
+            "frameNum": 26,
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_62": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 212,
+      "screenH": 640,
+      "totalFrame": 40,
+      "layers": [
+        [{
+            "libName": "i_122",
+            "frameNum": 12,
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.28,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.76,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.38,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "x": 0
+          },
+          {
+            "libName": "i_124",
+            "y": 0.4,
+            "x": -41
+          },
+          {
+            "libName": "i_122",
+            "y": 0,
+            "al": 0.28,
+            "x": 0
+          },
+          {
+            "frameNum": 19,
+            "y": 0,
+            "x": 0
+          }
+        ],
+        [{
+            "libName": "i_123",
+            "frameNum": 15,
+            "y": 10.6,
+            "x": 11.05
+          },
+          {
+            "y": 10.6,
+            "al": 0.28,
+            "x": 11.05
+          },
+          {
+            "y": 10.6,
+            "al": 0.76,
+            "x": 11.05
+          },
+          {
+            "y": 10.6,
+            "al": 0.38,
+            "x": 11.05
+          },
+          {
+            "y": 10.6,
+            "al": 0.8,
+            "x": 11.05
+          },
+          {
+            "y": 10.6,
+            "x": 11.05
+          },
+          {
+            "libName": "i_125",
+            "y": 10.6,
+            "x": -40.65
+          },
+          {
+            "libName": "i_123",
+            "y": 10.6,
+            "al": 0.28,
+            "x": 11.05
+          },
+          {
+            "frameNum": 16,
+            "y": 10.6,
+            "x": 11.05
+          }
+        ]
+      ]
+    },
+    "mc_21": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 48.5,
+      "screenH": 640,
+      "totalFrame": 55,
+      "layers": [
+        [{
+          "libName": "mc_22",
+          "frameNum": 54,
+          "y": 8.75,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_23",
+          "frameNum": 54,
+          "y": 14.5,
+          "al": 0.15,
+          "x": 172.6
+        }],
+        [{
+          "libName": "mc_24",
+          "frameNum": 54,
+          "y": 14.5,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_25",
+          "frameNum": 54,
+          "y": 20.25,
+          "al": 0.15,
+          "x": 172.6
+        }],
+        [{
+          "libName": "mc_26",
+          "frameNum": 54,
+          "y": 20.25,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_27",
+          "frameNum": 54,
+          "y": 26,
+          "al": 0.15,
+          "x": 172.6
+        }],
+        [{
+          "libName": "mc_28",
+          "frameNum": 54,
+          "y": 26,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_29",
+          "frameNum": 54,
+          "y": 37.5,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+          "libName": "mc_30",
+          "frameNum": 54,
+          "y": 31.75,
+          "al": 0.15,
+          "x": 172.6
+        }],
+        [{
+          "libName": "mc_31",
+          "frameNum": 54,
+          "y": 31.75,
+          "al": 0.15,
+          "x": 5
+        }],
+        [{
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 124.7,
+            "frameNum": 6,
+            "libName": "i_39"
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.35,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.68,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.16,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 44,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 124.7
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 0.5,
+            "frameNum": 3,
+            "libName": "i_40"
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.35,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.68,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 24.4,
+            "cy": -0.5,
+            "al": 0.16,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 47,
+            "y": 24.4,
+            "cy": -0.5,
+            "x": 0.5
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 0.5,
+            "frameNum": 10,
+            "libName": "i_41"
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.35,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.68,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.16,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 3,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.35,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.68,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.16,
+            "x": 0.5
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 33,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 0.5
+          }
+        ],
+        [{
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 124.7,
+            "frameNum": 5,
+            "libName": "i_42"
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.35,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.68,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "y": 0.5,
+            "cy": -0.5,
+            "al": 0.16,
+            "x": 124.7
+          },
+          {
+            "cx": -0.5,
+            "frameNum": 45,
+            "y": 0.5,
+            "cy": -0.5,
+            "x": 124.7
+          }
+        ]
+      ]
+    },
+    "ani1": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 1139,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_1",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_0",
+          "y": 328,
+          "x": 33
+        }],
+        [{
+          "libName": "mc_1",
+          "y": 703,
+          "x": 273
+        }],
+        [{
+          "libName": "mc_2",
+          "y": 574,
+          "x": 67
+        }],
+        [{
+          "libName": "mc_3",
+          "y": 419,
+          "x": 326
+        }],
+        [{
+          "libName": "mc_4",
+          "y": 155,
+          "x": 302
+        }],
+        [{
+          "libName": "mc_5",
+          "y": 135,
+          "x": 80
+        }],
+        [{
+          "libName": "mc_6",
+          "y": 246,
+          "x": 133
+        }],
+        [{
+          "libName": "mc_7",
+          "y": 71,
+          "x": 534
+        }]
+      ]
+    },
+    "mc_16": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 2,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_29",
+          "y": 0,
+          "x": 0
+        }]
+      ]
+    },
+    "mc_55": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 130,
+      "screenH": 640,
+      "totalFrame": 12,
+      "layers": [
+        [{
+            "libName": "i_92",
+            "y": 0,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.9,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.8,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.7,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.6,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.5,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.4,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.52,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.64,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.76,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "al": 0.88,
+            "x": 0
+          },
+          {
+            "y": 0,
+            "x": 0
+          }
+        ]
+      ]
+    },
+    "mc_59": {
+      "direction": 1,
+      "frameTime": 33,
+      "stageHeight": 114.4,
+      "screenH": 640,
+      "totalFrame": 1,
+      "layers": [
+        [{
+          "libName": "i_115",
+          "y": 0,
+          "x": 0
+        }],
+        [{
+          "libName": "mc_60",
+          "y": 42.9,
+          "al": 0.25,
+          "x": 38.2
+        }]
+      ]
+    }
+  },
+  "version": 1499849721472,
+  "imgScale": {},
+  "fileName": "ani",
+  "imgArr": [{
+      "name": 2,
+      "size": 4921284
+    },
+    {
+      "name": 1,
+      "size": 4430934
+    },
+    {
+      "name": 0,
+      "size": 3778130
+    }
+  ]
+}
