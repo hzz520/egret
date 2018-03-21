@@ -1,5 +1,7 @@
 /.idea/*
 /pkg/node_modules
+/bin-debug
+/bin-release
 
 
 # Windows image file caches
