@@ -43,20 +43,35 @@
 
     <!--这个标签为通过egret提供的第三方库的方式生成的 javascript 文件。删除 modules_files 标签后，库文件加载列表将不会变化，请谨慎操作！-->
     <!--modules_files_start-->
-	<script egret="lib" src="libs/modules/egret/egret.min.js"></script>
-	<script egret="lib" src="libs/modules/egret/egret.web.min.js"></script>
-	<script egret="lib" src="libs/modules/game/game.min.js"></script>
-	<script egret="lib" src="libs/modules/res/res.min.js"></script>
+	<script egret="lib" src="libs/modules/egret/egret.js" src-release="libs/modules/egret/egret.min.js"></script>
+	<script egret="lib" src="libs/modules/egret/egret.web.js" src-release="libs/modules/egret/egret.web.min.js"></script>
+	<script egret="lib" src="libs/modules/game/game.js" src-release="libs/modules/game/game.min.js"></script>
+	<script egret="lib" src="libs/modules/res/res.js" src-release="libs/modules/res/res.min.js"></script>
 	<!--modules_files_end-->
 
     <!--这个标签为不通过egret提供的第三方库的方式使用的 javascript 文件，请将这些文件放在libs下，但不要放在modules下面。-->
     <!--other_libs_files_start-->
-    <script egret="lib" src="polyfill/promise.min.js"></script>
+    <script egret="lib" src="polyfill/promise.js" src-release="polyfill/promise.min.js"></script>
     <!--other_libs_files_end-->
 
     <!--这个标签会被替换为项目中所有的 javascript 文件。删除 game_files 标签后，项目文件加载列表将不会变化，请谨慎操作！-->
     <!--game_files_start-->
-	<script src="main.min.js"></script>
+	<script egret="game" src="bin-debug/Main.js"></script>
+	<script egret="game" src="bin-debug/btn_me.js"></script>
+	<script egret="game" src="bin-debug/chanel1.js"></script>
+	<script egret="game" src="bin-debug/chanel2.js"></script>
+	<script egret="game" src="bin-debug/chanel3.js"></script>
+	<script egret="game" src="bin-debug/indicateView.js"></script>
+	<script egret="game" src="bin-debug/LoadingUI.js"></script>
+	<script egret="game" src="bin-debug/main_btn.js"></script>
+	<script egret="game" src="bin-debug/btn_share.js"></script>
+	<script egret="game" src="bin-debug/tabView1.js"></script>
+	<script egret="game" src="bin-debug/tabView2.js"></script>
+	<script egret="game" src="bin-debug/tabView3.js"></script>
+	<script egret="game" src="bin-debug/tabView4.js"></script>
+	<script egret="game" src="bin-debug/tabViews.js"></script>
+	<script egret="game" src="bin-debug/videoView.js"></script>
+	<script egret="game" src="bin-debug/xu.js"></script>
 	<!--game_files_end-->
 
     <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
