@@ -1,7 +1,5 @@
 /.idea/*
 /pkg/node_modules
-/bin-release
-
 
 # Windows image file caches
 Thumbs.db
