@@ -1,4 +1,4 @@
-class LoadingUI extends  egret.Sprite {
+ class LoadingUI extends  egret.Sprite {
 
     private img:egret.Bitmap
     private bgImg:egret.Bitmap
