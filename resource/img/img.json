@@ -1,0 +1,155 @@
+{
+"file": "img.png",
+"frames": {
+"a1": {
+"x": 643,
+"y": 383,
+"w": 395,
+"h": 380,
+"offX": 0,
+"offY": 0,
+"sourceW": 395,
+"sourceH": 380
+},
+"a2": {
+"x": 1437,
+"y": 1,
+"w": 395,
+"h": 376,
+"offX": 0,
+"offY": 0,
+"sourceW": 395,
+"sourceH": 380
+},
+"a3": {
+"x": 643,
+"y": 1,
+"w": 395,
+"h": 380,
+"offX": 0,
+"offY": 0,
+"sourceW": 395,
+"sourceH": 380
+},
+"a4": {
+"x": 1040,
+"y": 1,
+"w": 395,
+"h": 376,
+"offX": 0,
+"offY": 0,
+"sourceW": 395,
+"sourceH": 380
+},
+"ae": {
+"x": 1,
+"y": 731,
+"w": 95,
+"h": 111,
+"offX": 0,
+"offY": 0,
+"sourceW": 95,
+"sourceH": 111
+},
+"bottom": {
+"x": 1,
+"y": 1,
+"w": 640,
+"h": 728,
+"offX": 0,
+"offY": 0,
+"sourceW": 640,
+"sourceH": 728
+},
+"btn_choose": {
+"x": 98,
+"y": 731,
+"w": 184,
+"h": 55,
+"offX": 0,
+"offY": 0,
+"sourceW": 184,
+"sourceH": 55
+},
+"hand": {
+"x": 466,
+"y": 762,
+"w": 58,
+"h": 78,
+"offX": 0,
+"offY": 0,
+"sourceW": 58,
+"sourceH": 78
+},
+"main_txt": {
+"x": 284,
+"y": 731,
+"w": 180,
+"h": 47,
+"offX": 0,
+"offY": 0,
+"sourceW": 180,
+"sourceH": 47
+},
+"t1": {
+"x": 1834,
+"y": 1,
+"w": 198,
+"h": 24,
+"offX": 0,
+"offY": 0,
+"sourceW": 198,
+"sourceH": 24
+},
+"t2": {
+"x": 98,
+"y": 814,
+"w": 224,
+"h": 24,
+"offX": 0,
+"offY": 0,
+"sourceW": 224,
+"sourceH": 24
+},
+"t3": {
+"x": 260,
+"y": 840,
+"w": 174,
+"h": 24,
+"offX": 0,
+"offY": 0,
+"sourceW": 174,
+"sourceH": 24
+},
+"t4": {
+"x": 98,
+"y": 788,
+"w": 264,
+"h": 24,
+"offX": 0,
+"offY": 0,
+"sourceW": 264,
+"sourceH": 24
+},
+"top": {
+"x": 1,
+"y": 844,
+"w": 257,
+"h": 29,
+"offX": 0,
+"offY": 0,
+"sourceW": 257,
+"sourceH": 29
+},
+"txt": {
+"x": 466,
+"y": 731,
+"w": 168,
+"h": 29,
+"offX": 0,
+"offY": 0,
+"sourceW": 168,
+"sourceH": 29
+}
+}
+}

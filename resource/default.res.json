@@ -1,0 +1,94 @@
+{
+	"groups": [
+		{
+			"keys": "ld_bg,logo,ld",
+			"name": "loading"
+		},
+		{
+			"keys": "ani,ani_she,img,ani_she1,ani_she2,eff1,loop,xu,eff2,pan",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "ld_bg",
+			"type": "image",
+			"url": "img/ld_bg.jpg"
+		},
+		{
+			"name": "ani",
+			"type": "json",
+			"url": "img/ani.json"
+		},
+		{
+			"name": "ani_she",
+			"subkeys": "i_125,i_126,i_127,i_130,i_131,i_132,i_133,i_134,i_71",
+			"type": "sheet",
+			"url": "img/ani/0.json"
+		},
+		{
+			"name": "img",
+			"subkeys": "a1,a2,a3,a4,ae,bottom,btn_choose,hand,main_txt,t1,t2,t3,t4,top,txt",
+			"type": "sheet",
+			"url": "img/img.json"
+		},
+		{
+			"name": "ani_she1",
+			"subkeys": "i_104,i_105,i_106,i_109,i_111,i_114,i_115,i_118,i_120,i_121,i_122,i_123,i_124,i_128,i_58,i_59,i_60,i_61,i_69,i_70,i_76,i_83,i_84,i_85,i_87,i_88,i_89,i_90,i_91",
+			"type": "sheet",
+			"url": "img/ani/1.json"
+		},
+		{
+			"name": "ani_she2",
+			"subkeys": "i_1,i_10,i_100,i_101,i_102,i_103,i_107,i_108,i_11,i_110,i_112,i_113,i_116,i_117,i_119,i_12,i_129,i_13,i_14,i_15,i_16,i_17,i_18,i_19,i_2,i_20,i_21,i_22,i_23,i_24,i_25,i_26,i_27,i_28,i_29,i_3,i_30,i_31,i_32,i_33,i_34,i_35,i_36,i_37,i_38,i_39,i_4,i_40,i_41,i_42,i_43,i_44,i_45,i_46,i_47,i_48,i_49,i_5,i_50,i_51,i_52,i_53,i_54,i_55,i_56,i_57,i_6,i_62,i_63,i_64,i_65,i_66,i_67,i_68,i_7,i_72,i_73,i_74,i_75,i_77,i_78,i_79,i_8,i_80,i_81,i_82,i_86,i_9,i_92,i_93,i_94,i_95,i_96,i_97,i_98,i_99",
+			"type": "sheet",
+			"url": "img/ani/2.json"
+		},
+		{
+			"name": "eff1",
+			"soundType": "effect",
+			"type": "sound",
+			"url": "eff1.mp3"
+		},
+		{
+			"name": "loop",
+			"soundType": "effect",
+			"type": "sound",
+			"url": "loop.mp3"
+		},
+		{
+			"name": "xu",
+			"soundType": "effect",
+			"type": "sound",
+			"url": "xu.mp3"
+		},
+		{
+			"name": "eff2",
+			"soundType": "effect",
+			"type": "sound",
+			"url": "eff2.mp3"
+		},
+		{
+			"name": "logo",
+			"subkeys": "1,10,100,101,102,103,104,105,106,107,108,109,11,110,111,112,12,13,14,15,16,17,18,19,2,20,21,22,23,24,25,26,27,28,29,3,30,31,32,33,34,35,36,37,38,39,4,40,41,42,43,44,45,46,47,48,49,5,50,51,52,53,54,55,56,57,58,59,6,60,61,62,63,64,65,66,67,68,69,7,70,71,72,73,74,75,76,77,78,79,8,80,81,82,83,84,85,86,87,88,89,9,90,91,92,93,94,95,96,97,98,99",
+			"type": "sheet",
+			"url": "img/logo.json"
+		},
+		{
+			"name": "pan",
+			"subkeys": "pan1,pan10,pan11,pan12,pan13,pan14,pan15,pan16,pan17,pan18,pan19,pan2,pan20,pan21,pan22,pan23,pan24,pan25,pan26,pan27,pan28,pan29,pan3,pan30,pan31,pan32,pan33,pan34,pan35,pan36,pan37,pan38,pan39,pan4,pan40,pan41,pan42,pan43,pan44,pan45,pan46,pan47,pan48,pan49,pan5,pan50,pan51,pan52,pan53,pan54,pan55,pan56,pan57,pan58,pan59,pan6,pan60,pan61,pan62,pan63,pan64,pan65,pan66,pan67,pan68,pan69,pan7,pan70,pan71,pan72,pan73,pan74,pan8,pan9",
+			"type": "sheet",
+			"url": "img/pan.json"
+		},
+		{
+			"name": "ld",
+			"type": "image",
+			"url": "img/ld.png"
+		},
+		{
+			"name":"logoImg",
+			"type":"image",
+			"url":"img/logo.png"
+		}
+	]
+}
