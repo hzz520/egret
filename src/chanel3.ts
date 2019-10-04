@@ -148,7 +148,7 @@ class chanel3 extends egret.Sprite {
         var target = <egret.Sprite>e.target
         
         if(target === this.btn_me) {
-            window.location.href = 'https://github.com/hzz520/egretPublicize'
+            window.location.href = 'https://github.com/hzz520/egret'
         } else {
             this.music.play(0,1)
             this.timerShare.start()

@@ -9,11 +9,11 @@ class chanel2 extends egret.Sprite {
     private tabImg:egret.Bitmap
     private timerTab:egret.Timer
     private i = 0
-    private tflag
+    // private tflag
     private soundLoop:egret.Sound
     private soundLoopController:egret.SoundChannel
     private xu:egret.Sound
-    private timeOut
+    // private timeOut
     private flag = false
     private chanel3:egret.Sprite
     private flag1 = false
